@@ -27,3 +27,4 @@ IMPORTANT NOTES:
 
 CREDITS:
 Original FS22 Mod: GMNGjoy (https://github.com/GMNGjoy/FS22_SpawnPalletsStacked)
+Updated to work with FS25 by Kwtch.
